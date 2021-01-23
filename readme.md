@@ -1,4 +1,3 @@
-## License 
 
 [Bring Me Home](/)
 
